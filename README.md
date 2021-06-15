@@ -6,8 +6,8 @@ Prior to this, I attended University of California, Riverside where I majored in
 👀 I am open to work in August 2021 and interested in data analyst, business analyst, marketing analyst positons!
 
 📫 You can reach me on
-  LinkedIn: https://www.linkedin.com/in/mishakhan98/ 
-  Email: mishakhann98@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/mishakhan98/ 
+  - Email: mishakhann98@gmail.com
 
 <!---
 mkhan58/mkhan58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
