@@ -5,7 +5,7 @@
 👀 I am open to work in December 2023 and interested in data scientist positions.
 
 📫 You can reach me on
-  - LinkedIn: https://www.linkedin.com/in/mishakhan98/ 
+  - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mishakhan98/)
   - Email: mishakhann98@gmail.com
 
 <!---
